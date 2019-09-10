@@ -1,0 +1,28 @@
+Machine Learning Section
+https://nbviewer.jupyter.org/github/regruss/Predicting_Customer_Churn/blob/master/Telecom_ML.ipynb
+
+Exploratory Data Analysis
+https://nbviewer.jupyter.org/github/regruss/Predicting_Customer_Churn/blob/master/Telecom_EDA.ipynb
+
+Inferential Statistics
+https://nbviewer.jupyter.org/github/regruss/Predicting_Customer_Churn/blob/master/Telecom_Inferential_Stats.ipynb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
